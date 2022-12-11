@@ -1,0 +1,14 @@
+import { useState, useEffect } from "react";
+import "./about.css";
+import React from 'react'
+
+
+function About() {
+  return (
+    <div>
+      <h1>about</h1>
+    </div>
+  )
+}
+
+export default About;
